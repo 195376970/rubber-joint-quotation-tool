@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+json-tricks==3.16.1
+jinja2==3.1.3
+reportlab==4.1.0
